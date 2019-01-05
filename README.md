@@ -11,7 +11,7 @@ To do so:
 
 2. `docker build -t webapplicationnetcore461 .`
 
-3. `docker run -it --rm -p 8080:80 webapplicationnetcore461`
+3. `docker run -it --rm -p 5000:5000 webapplicationnetcore461`
 
 Open http://localhost:5000
 
